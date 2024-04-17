@@ -9,12 +9,18 @@ In order to initialize the project, Ursina dependecie is necessary:
 pip install ursina
 ```
 
-## Run code!
+## Run game
 In order to run the mini game, navigate to the repository directory and run this code in terminal:
 ```bash
 python parkour.py
 ```
-
+## Controls
+``bash
+w = move forward
+a = left
+s = move backwards
+d = right
+```
 ## Quit game
 
 If you feel that you have enough fun, type 'escape' to close the game. 
