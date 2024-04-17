@@ -15,7 +15,7 @@ In order to run the mini game, navigate to the repository directory and run this
 python parkour.py
 ```
 ## Controls
-``bash
+```bash
 w = move forward
 a = left
 s = move backwards
