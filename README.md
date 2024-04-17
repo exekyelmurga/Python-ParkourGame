@@ -23,5 +23,5 @@ d = right
 ```
 ## Quit game
 
-If you feel that you have enough fun, type 'escape' to close the game. 
+If you feel that you have had enough fun, type 'escape' to close the game. 
 
